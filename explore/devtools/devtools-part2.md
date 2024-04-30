@@ -1,0 +1,2 @@
+1. The bug was that the numbers (in string representation) weren't converted to their numeric representation.
+2. I would enclose num1 and num2 in Number() to convert them into numbers so that the code correctly finds their sum.
